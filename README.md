@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Hi,+my+name+is+John;I'm+22+years+old,;I+graduated+in+IT+management,;Be+Welcome!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=40&weight=500&center=true&vCenter=true&width=800&height=100&lines=Be+Welcome!"></a>
 </p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am 
